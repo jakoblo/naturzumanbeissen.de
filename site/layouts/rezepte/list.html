@@ -1,0 +1,18 @@
+{{ partial "header" . }}
+
+<section>
+  <div class="container">
+   <h1>Rezepte</h1>
+
+   <ul id="all-tags">
+     {{ range $name, $taxonomy := .Site.Taxonomies.kategories }}
+       <li><a href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}">{{ $name }}</a></li>
+     {{ end }}
+   </ul>
+
+  </div>
+</section>
+
+
+
+{{ partial "footer.html" . }}
