@@ -1,0 +1,22 @@
+{{ partial "header" . }}
+
+<h4 style="margin-top: -40px; text-align: center;">Rezepte</h4>
+
+
+<section class="image-row">
+	<div class="container text-center px-0">
+		<div class="row no-gutters">
+
+      {{ range .Site.Taxonomies.categories.basics }}
+      <div class="col-6 col-sm p-1">
+        <a href="{{ .Page.RelPermalink }}">
+          <img src="../img/insta/1.jpg" class="img-fluid rounded" alt="">
+          <h3>{{ .Page.Title }}</h3>
+        </a>
+      </div>
+      {{ end }}
+		</div>
+  </div>
+</section>
+
+{{ partial "footer.html" . }}

@@ -1,0 +1,7 @@
+baseURL: "/"
+title: "Yoyodyne Widget Blogging"
+languageCode: "de"
+
+taxonomies:
+  tag: "tags"
+  category: "categories"

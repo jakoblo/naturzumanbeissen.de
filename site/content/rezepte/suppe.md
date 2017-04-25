@@ -1,8 +1,8 @@
 ---
-title: "KokoKakao"
+title: "Tomatensuppe"
 date: "2015-01-12T19:20:04-07:00"
-kategorie:
-  - "abendmahl"
+categories:
+  - "rezept"
 ---
 
 warm, schokoladig, süß, am frühen Morgen ...ein Traum  - nein!
