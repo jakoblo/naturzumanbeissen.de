@@ -1,14 +1,14 @@
 ---
-title: "Abendmahl"
+title: "Brotzeit"
 date: "2015-01-12T19:20:04-07:00"
 categories:
   - "basics"
 layout: "basics"
-rezeptecat: "abendmahl"
-img: "img/insta/2_crop.jpg"
+rezeptecat: "brotzeit"
+img: "img/insta/3_crop.jpg"
 ---
 
-**trallllaaaa Guten Morgen ...." Was für ein schöner Tag" ...Strecken und dehnen... und auf geht's zur Morgenroutine!**
+trallllaaaa Guten Morgen ...."Was für ein schöner Tag"  ...Strecken und  dehnen...und aufgeht's zur Morgenroutine!
 
 Der Körper will jetzt Gifte loswerden also ...trinken, durchspülen, Verdauung wach machen  - ist angesagt:
 

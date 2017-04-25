@@ -1,15 +1,25 @@
-{{ partial "header" . }}
+{{ partial "rezepte-header" . }}
 
-<h4 style="margin-top: -40px; text-align: center;">Rezepte</h4>
+<section class="rezepte image-row">
+	<div class="container text-center px-0">
+		<div class="row no-gutters">
+			{{ $base := .Site.BaseURL }}
+      {{ range .Site.Taxonomies.categories.basics }}
+      <div class="col-6 col-sm-3 p-1">
+				<div class="imagebox">
+        <a href="{{ .Page.RelPermalink }}">
+          <img src="{{ $base }}{{ .Page.Params.img }}" class="img-fluid rounded" alt="">
+					<h2>{{ .Page.Title }}</h2>
+        </a>
+			</div>
+      </div>
+      {{ end }}
+		</div>
+  </div>
+</section>
 
 <section>
-  <div class="container">
-    <ul>
-      {{ range .Site.Taxonomies.categories.basics }}
-        <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>
-      {{ end }}
-    </ul>
-  </div>
+
 </section>
 
 {{ partial "footer.html" . }}

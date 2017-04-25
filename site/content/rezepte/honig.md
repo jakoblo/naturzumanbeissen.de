@@ -1,8 +1,8 @@
 ---
-title: "Zitronen-Wasser Muntermacher"
+title: "Zitronen-Wasser"
 date: "2015-01-12T19:20:04-07:00"
-categories:
-  - "rezept"
+rezepte:
+  - "morgenstund"
 ---
 
 jeden Morgen gleich nach dem Aufstehn!

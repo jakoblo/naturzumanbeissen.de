@@ -23,8 +23,9 @@ body {
 
 .main-header {
     padding-top: 70px;
-    padding-bottom: 38px;
+    padding-bottom: 22px;
     background-color: #FFF387;
+    font-family: 'Oswald', sans-serif;
 }
 
 .main-header .title {
