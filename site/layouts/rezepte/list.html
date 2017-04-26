@@ -7,7 +7,7 @@
       {{ range .Site.Taxonomies.categories.basics }}
       <div class="col-6 col-sm-3 p-1">
 				<div class="imagebox">
-        <a href="{{ .Page.RelPermalink }}">
+        <a href="{{ .Page.URL }}">
           <img src="{{ $base }}{{ .Page.Params.img }}" class="img-fluid rounded" alt="">
 					<h2>{{ .Page.Title }}</h2>
         </a>
@@ -16,10 +16,6 @@
       {{ end }}
 		</div>
   </div>
-</section>
-
-<section>
-
 </section>
 
 {{ partial "footer.html" . }}

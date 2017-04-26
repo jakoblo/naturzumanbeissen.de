@@ -2,6 +2,9 @@ baseURL: "/"
 title: "Omalogisch"
 languageCode: "de"
 
+# Enable Google Analytics by inserting your tracking code
+googleAnalytics: ""
+
 taxonomies:
   tag: "tags"
   category: "categories"
