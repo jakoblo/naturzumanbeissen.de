@@ -5,7 +5,7 @@ categories:
   - "basics"
 layout: "basics"
 rezeptecat: "mahlzeit"
-img: "img/insta/2_crop.jpg"
+img: "img/rezepte/kategorien/small/mahlzeit.jpg"
 ---
 
 trallllaaaa Guten Morgen ...."Was für ein schöner Tag"  ...Strecken und  dehnen...und aufgeht's zur Morgenroutine!

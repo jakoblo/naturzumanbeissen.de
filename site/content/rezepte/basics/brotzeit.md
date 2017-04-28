@@ -5,7 +5,7 @@ categories:
   - "basics"
 layout: "basics"
 rezeptecat: "brotzeit"
-img: "img/insta/brotzeit.jpg"
+img: "img/rezepte/kategorien/small/brotzeit.jpg"
 ---
 
 trallllaaaa Guten Morgen ...."Was für ein schöner Tag"  ...Strecken und  dehnen...und aufgeht's zur Morgenroutine!

@@ -5,7 +5,7 @@ categories:
   - "basics"
 layout: "basics"
 rezeptecat: "morgenstund"
-img: "img/insta/morgenstund.jpg"
+img: "img/rezepte/kategorien/small/morgenstund.jpg"
 ---
 
 trallllaaaa Guten Morgen ...."Was für ein schöner Tag"  ...Strecken und  dehnen...und aufgeht's zur Morgenroutine!

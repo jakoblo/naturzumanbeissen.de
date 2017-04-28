@@ -5,7 +5,7 @@ categories:
   - "basics"
 layout: "basics"
 rezeptecat: "mobilessen"
-img: "img/insta/mobil-essen.jpg"
+img: "img/rezepte/kategorien/small/mobil-essen.jpg"
 ---
 
 trallllaaaa Guten Morgen ...."Was für ein schöner Tag"  ...Strecken und  dehnen...und aufgeht's zur Morgenroutine!

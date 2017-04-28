@@ -5,7 +5,7 @@ categories:
   - "basics"
 layout: "basics"
 rezeptecat: "naschkatz"
-img: "img/insta/3_crop.jpg"
+img: "img/rezepte/kategorien/small/naschkatz.jpg"
 ---
 
 trallllaaaa Guten Morgen ...."Was für ein schöner Tag"  ...Strecken und  dehnen...und aufgeht's zur Morgenroutine!
