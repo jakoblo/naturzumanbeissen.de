@@ -5,7 +5,7 @@ categories:
   - "basics"
 layout: "basics"
 rezeptecat: "abendmahl"
-img: "img/insta/2_crop.jpg"
+img: "img/insta/abendmahl.jpg"
 ---
 
 **trallllaaaa Guten Morgen ...." Was für ein schöner Tag" ...Strecken und dehnen... und auf geht's zur Morgenroutine!**
