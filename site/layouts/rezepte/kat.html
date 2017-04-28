@@ -15,7 +15,6 @@
 	<div class="container text-center px-0">
 		<div class="row no-gutters">
 
-      {{ $cat := "morgenstund"}}
       {{ $rez := .Params.rezeptecat }}
       {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
       {{ range $key, $value := $taxonomy }}
@@ -24,7 +23,11 @@
         <div class="col-6 col-sm-3 p-1">
           <div class="imagebox">
           <a href="{{ .RelPermalink }}">
-            <img src="{{ .Site.BaseURL }}img/insta/1_crop.jpg" class="img-fluid rounded" alt="">
+            {{ if .Params.img }}
+            <img src="{{ .Site.BaseURL }}{{ .Params.img }}" class="img-fluid rounded" alt="">
+            {{ else }}
+            <img src="{{ .Site.BaseURL }}img/insta/1.jpg" class="img-fluid rounded" alt="">
+            {{ end }}
             <h2>{{ .Title }}</h2>
           </a>
         </div>

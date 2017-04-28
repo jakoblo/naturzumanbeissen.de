@@ -5,7 +5,7 @@
 		<h4 class="text-left">Kategorien</h4>
 		<div class="row no-gutters">
 			{{ $base := .Site.BaseURL }}
-      {{ range .Site.Taxonomies.categories.basics }}
+      {{ range .Site.Taxonomies.categories.kat }}
       <div class="col-6 col-sm-3 p-1">
 				<div class="imagebox">
         <a href="{{ .Page.URL }}">
@@ -24,7 +24,7 @@
 		<h4>Neue Rezepte</h4>
 		<ul>
 			{{ range .Data.Pages.ByDate}}
-			{{ if in .Params.categories "basics" }}
+			{{ if in .Params.categories "kat" }}
 			{{ else }}
 			<li>
 				<a href="{{ .Permalink }}">{{ .Title }}</a>

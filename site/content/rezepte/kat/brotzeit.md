@@ -1,11 +1,11 @@
 ---
-title: "Rohköstlich"
+title: "Brotzeit"
 date: "2015-01-12T19:20:04-07:00"
 categories:
-  - "basics"
-layout: "basics"
-rezeptecat: "naturlichroh"
-img: "img/rezepte/kategorien/small/rohkost.jpg"
+  - "kat"
+layout: "kat"
+rezeptecat: "brotzeit"
+img: "img/rezepte/kategorien/small/brotzeit.jpg"
 ---
 
 trallllaaaa Guten Morgen ...."Was für ein schöner Tag"  ...Strecken und  dehnen...und aufgeht's zur Morgenroutine!

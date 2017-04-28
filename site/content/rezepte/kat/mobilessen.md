@@ -2,8 +2,8 @@
 title: "Mobil Essen"
 date: "2015-01-12T19:20:04-07:00"
 categories:
-  - "basics"
-layout: "basics"
+  - "kat"
+layout: "kat"
 rezeptecat: "mobilessen"
 img: "img/rezepte/kategorien/small/mobil-essen.jpg"
 ---

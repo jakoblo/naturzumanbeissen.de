@@ -1,11 +1,11 @@
 ---
-title: "Mahlzeit"
+title: "Rohköstlich"
 date: "2015-01-12T19:20:04-07:00"
 categories:
-  - "basics"
-layout: "basics"
-rezeptecat: "mahlzeit"
-img: "img/rezepte/kategorien/small/mahlzeit.jpg"
+  - "kat"
+layout: "kat"
+rezeptecat: "naturlichroh"
+img: "img/rezepte/kategorien/small/rohkost.jpg"
 ---
 
 trallllaaaa Guten Morgen ...."Was für ein schöner Tag"  ...Strecken und  dehnen...und aufgeht's zur Morgenroutine!
