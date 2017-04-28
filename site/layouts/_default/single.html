@@ -4,7 +4,20 @@
   <div class="container single">
     <h2 class="title">{{ .Title }}</h2>
     <article class="content">
-      {{ .Content }}
+      <div class="row">
+        <div class="col-md-8">
+          {{ .Content }}
+        </div>
+        <div class="col">
+          {{ if .Params.img1 }}
+            <img src="{{ .Site.BaseURL }}{{ .Params.img1 }}" class="img-fluid rounded" alt="">
+          {{ end }}
+          {{ if .Params.img2 }}
+            <img src="{{ .Site.BaseURL }}{{ .Params.img2 }}" class="img-fluid rounded pt-2" alt="">
+          {{ end }}
+        </div>
+      </div>
+
     </article>
   </div>
 </section>
