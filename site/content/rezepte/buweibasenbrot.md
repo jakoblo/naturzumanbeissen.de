@@ -3,6 +3,8 @@ title: "BuWei Basenbrot"
 date: "2015-01-12T19:20:04-07:00"
 categories:
   - "brotzeit"
+img: "img/rezepte/basenbrot.jpg"
+img1: "img/rezepte/basenbrot.jpg"
 ---
 
 450g Mehl:
@@ -20,7 +22,7 @@ ca. 800ml Wasser
 
 Und so wirds gemacht:
 Alle trockenen Zutaten in eine Rührschüssel geben
-das Wasser mit dem Rührgerät (wie Kuchen backen) einarbeitern (sehr weiche Konsistenz!) 5 Minuten rühren/kneten
+das Wasser mit dem Rührgerät (wie Kuchen backen) einarbeiten (sehr weiche Konsistenz!) 5 Minuten rühren/kneten
 am Schluss den Essig schnell unterrühren
 (nur kurz rühren da das Natron sofort zu reagieren beginnt!)
 

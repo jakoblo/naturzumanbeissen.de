@@ -2,6 +2,34 @@
 
 .rezepte {
   & .imagebox {
+
+
+    & h2 {
+      font-size: 1.5em;
+      width: 100%;
+      font-family: 'Open Sans Condensed', sans-serif;
+      }
+  }
+
+    & .title {
+      padding-top: 30px;
+      font-family: 'Oswald', sans-serif;
+    }
+
+    & article {
+      padding-top: 15px;
+    }
+
+    & ul {
+      list-style-type: none;
+      padding: 0;
+    }
+}
+
+/* Text on Top of image*/
+
+/*.rezepte {
+  & .imagebox {
     position: relative;
 
     & h2 {
@@ -30,4 +58,4 @@
       list-style-type: none;
       padding: 0;
     }
-}
+}*/
