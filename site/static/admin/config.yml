@@ -16,10 +16,23 @@ collections: # A list of collections the CMS should be able to edit
   #     - {label: "Body", name: "body", widget: "markdown"}
   #     - {label: "Publish Date", name: "date", widget: "datetime"}
   - name: "page" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Page" # Used in the UI, ie.: "New Post"
-    folder: "site/content/info" # The path to the folder where the documents are stored
+    label: "Seite" # Used in the UI, ie.: "New Post"
+    folder: "site/content" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Bild 1", name: "img1", widget: "image"}
+      - {label: "Bild 2", name: "img2", widget: "image"}
+      - {label: "Bild 3", name: "img3", widget: "image"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "rezept" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Rezept" # Used in the UI, ie.: "New Post"
+    folder: "site/content/rezepte" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Featured Image", name: "thumbnail", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
