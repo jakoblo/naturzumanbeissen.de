@@ -23,18 +23,19 @@ body {
 
 header {
   background-color: #FFF387;
+  font-family: 'Open Sans Condensed', sans-serif;
 
 & .img-bg {
   position: absolute;
   -ms-transform: rotate(22deg); /* IE 9 */
   -webkit-transform: rotate(22deg); /* Chrome, Safari, Opera */
   transform: rotate(22deg);
-  margin-top: 3.4em;
+  margin-top: 4.2em;
   margin-left: 1.5em;
 }
 
 & .main-header {
-  padding-top: 50px;
+  padding-top: 45px;
   padding-bottom: 22px;
   font-family: 'Open Sans Condensed', sans-serif;
   font-weight: normal;
@@ -44,7 +45,7 @@ header {
     padding: 0px;
     text-align: center;
     font-family: 'Tangerine', cursive;
-    font-size: 4.5rem;
+    font-size: 5.5rem;
 
     & a {
       text-decoration: none;
