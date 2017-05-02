@@ -8,7 +8,7 @@ rezeptecat: "morgenstund"
 img: "img/rezepte/kategorien/small/morgenstund.jpg"
 ---
 
-trallllaaaa Guten Morgen ...."Was für ein schöner Tag"  ...Strecken und  dehnen...und aufgeht's zur Morgenroutine!
+**trallllaaaa Guten Morgen ...." Was für ein schöner Tag" ...Strecken und dehnen... und auf geht's zur Morgenroutine!**
 
 Der Körper will jetzt Gifte loswerden also ...trinken, durchspülen, Verdauung wach machen  - ist angesagt:
 
