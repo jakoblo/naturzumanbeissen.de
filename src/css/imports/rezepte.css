@@ -26,6 +26,13 @@
     }
 }
 
+.kategorie {
+  & .title {
+    padding-bottom: 10px;
+    font-family: 'Oswald', sans-serif;
+  }
+}
+
 /* Text on Top of image*/
 
 /*.rezepte {

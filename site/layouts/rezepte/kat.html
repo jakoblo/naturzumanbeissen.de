@@ -1,8 +1,8 @@
 {{ partial "rezepte-header" . }}
 
-<section id="main">
+<section class="kategorie">
   <div class="container mt-4">
-    <h1 id="title">{{ .Title }}</h1>
+    <h3 class="title text-center">{{ .Title }}</h3>
     <div class="pt-2">
       <article id="content">
          {{ .Content }}
@@ -24,9 +24,9 @@
           <div class="imagebox">
           <a href="{{ .RelPermalink }}">
             {{ if .Params.img }}
-            <img src="{{ .Site.BaseURL }}{{ .Params.img }}" class="img-fluid rounded" alt="">
+            <img src="{{ .Site.BaseURL }}{{ .Params.img }}" class="img-fluid" alt="">
             {{ else }}
-            <img src="{{ .Site.BaseURL }}img/insta/1.jpg" class="img-fluid rounded" alt="">
+            <img src="{{ .Site.BaseURL }}img/insta/1.jpg" class="img-fluid" alt="">
             {{ end }}
             <h2>{{ .Title }}</h2>
           </a>

@@ -30,13 +30,12 @@ header {
   -ms-transform: rotate(22deg); /* IE 9 */
   -webkit-transform: rotate(22deg); /* Chrome, Safari, Opera */
   transform: rotate(22deg);
-  margin-top: 4.2em;
+  margin-top: 3.2em;
   margin-left: 1.5em;
 }
 
 & .main-header {
   padding-top: 45px;
-  padding-bottom: 22px;
   font-family: 'Open Sans Condensed', sans-serif;
   font-weight: normal;
   font-size: 1em;
@@ -143,6 +142,17 @@ header {
       background: #fffee5;
       height: 100%;
       border-radius: .25rem;
+      font-family: 'Oswald', sans-serif;
+
+      & .title {
+        padding-top: 0.3rem;
+        font-size: 1.5em;
+        font-family: 'Oswald', sans-serif;
+      }
+
+      & .subtitle {
+        font-family: 'Open Sans Condensed', sans-serif;
+      }
 
       & ul {
         padding: 0;
