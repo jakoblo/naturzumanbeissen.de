@@ -6,40 +6,40 @@
   <title>Content Manager</title>
 
   <link rel="stylesheet" href="https://unpkg.com/netlify-cms@^0.3/dist/cms.css" />
-
+  <script src="https://unpkg.com/netlify-cms@^0.3/dist/cms.js"></script>
 </head>
 <body>
-  <script src="https://unpkg.com/netlify-cms@^0.3/dist/cms.js"></script>
-  <script>CMS.registerPreviewStyle("../css/main.css");</script>
+
+  <script>CMS.registerPreviewStyle("/main.css");</script>
 
   <script>
-    var RecipePreview = createClass({
-      render: function() {
-        var entry = this.props.entry;
-        return h('div', {"id": "main"},
-          h('div', {"className": "container"},
-            h('h1', {"className": "title"}, entry.getIn(['data', 'title'])),
-            h('div', {"className": "row"},
-              h('div', {"className": "col-md-8"}, this.props.widgetFor('body')), h('div', {"className": "col"})
-            )
-          )
-        );
-      }
-    });
+  var RecipePreview = createClass({
+    render: function() {
+      var entry = this.props.entry;
+      return h('div', {"id": "main"},
+      h('div', {"className": "container"},
+      h('h1', {"className": "title"}, entry.getIn(['data', 'title'])),
+      h('div', {"className": "row"},
+      h('div', {"className": "col-md-8"}, this.props.widgetFor('body')), h('div', {"className": "col"})
+    )
+  )
+  );
+  }
+  });
 
   var PagePreview = createClass({
-  render: function() {
-    var entry = this.props.entry;
-    return h('div', {},
-          h('h1', {}, entry.getIn(['data', 'title'])),
-          h('div', {"className": "text"}, this.props.widgetFor('body'))
+    render: function() {
+      var entry = this.props.entry;
+      return h('div', {},
+      h('h1', {}, entry.getIn(['data', 'title'])),
+      h('div', {"className": "text"}, this.props.widgetFor('body'))
     );
   }
-});
+  });
 
-        CMS.registerPreviewTemplate("page", PagePreview);
-    CMS.registerPreviewTemplate("recipe", RecipePreview);
-  </script>
+  CMS.registerPreviewTemplate("page", PagePreview);
+  CMS.registerPreviewTemplate("recipe", RecipePreview);
+</script>
 
 </body>
 </html>
