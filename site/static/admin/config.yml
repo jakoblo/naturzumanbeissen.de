@@ -15,8 +15,8 @@ collections: # A list of collections the CMS should be able to edit
   #     - {label: "Title", name: "title", widget: "string", tagname: "h1"}
   #     - {label: "Body", name: "body", widget: "markdown"}
   #     - {label: "Publish Date", name: "date", widget: "datetime"}
-  - name: "seite" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Seite" # Used in the UI, ie.: "New Post"
+  - name: "page" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Page" # Used in the UI, ie.: "New Post"
     folder: "site/content" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
@@ -27,8 +27,8 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Bild 3", name: "img3", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
 
-  - name: "rezept" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Rezept" # Used in the UI, ie.: "New Post"
+  - name: "recipe" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Recipe" # Used in the UI, ie.: "New Post"
     folder: "site/content/rezepte" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have

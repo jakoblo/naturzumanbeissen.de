@@ -14,16 +14,18 @@
 
   <!--  -->
   <script>
-    var PagePreview = createClass({
+    var RecipePreview = createClass({
       render: function() {
         var entry = this.props.entry;
         return h('div', {"id": "main"},
-        h('span', {}, h('h1', {}, entry.getIn(['data', 'title']))),
-        h('p', {}, this.props.widgetFor('body')))
+          h('div', {"class": "container"},
+            h('h1', {"class": "title"}, entry.getIn(['data', 'title'])),
+            h('div' {"class": "row"}, h('div' {"class": "col-md-8"}, this.props.widgetFor('body')), h('div' {"class": "col"})),
+          ))
       }
     });
 
-    CMS.registerPreviewTemplate("seite", PagePreview);
+    CMS.registerPreviewTemplate("recipe", RecipePreview);
   </script>
 
 </body>
