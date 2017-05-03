@@ -16,20 +16,26 @@
     var RecipePreview = createClass({
       render: function() {
         var entry = this.props.entry;
-        return h('div', {},
-          h('h1', {"className": "title"}, entry.getIn(['data', 'title'])),
-          h('div', {"className": "text"}, this.props.widgetFor('body'))
+        return h('div', {"id": "main"},
+          h('div', {"className": "container"},
+            h('h1', {"className": "title"}, entry.getIn(['data', 'title'])),
+            h('div', {"className": "row"},
+              h('div', {"className": "col-md-8"}, this.props.widgetFor('body')), h('div', {"className": "col"})
+            )
+          )
         );
-        // return h('div', {"id": "main"},
-        //   h('div', {"class": "container"},
-        //     h('h1', {"class": "title"}, entry.getIn(['data', 'title'])),
-        //     h('div', {"class": "row"},
-        //       h('div', {"class": "col-md-8"}, this.props.widgetFor('body')), h('div', {"class": "col"})
-        //     )
-        //   )
-        // );
       }
     });
+
+  var PagePreview = createClass({
+  render: function() {
+    var entry = this.props.entry;
+    return h('div', {},
+          h('h1', {}, entry.getIn(['data', 'title'])),
+          h('div', {"className": "text"}, this.props.widgetFor('body'))
+    );
+  }
+});
 
     CMS.registerPreviewTemplate("recipe", RecipePreview);
   </script>
