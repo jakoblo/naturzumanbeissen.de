@@ -4,16 +4,15 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Content Manager</title>
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
-  <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css?family=Tangerine" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300" rel="stylesheet">
   <link rel="stylesheet" href="https://unpkg.com/netlify-cms@^0.3/dist/cms.css" />
 
 </head>
 <body>
   <script src="https://unpkg.com/netlify-cms@^0.3/dist/cms.js"></script>
-  <script>CMS.registerPreviewStyle("/css/main.css");</script>
+  <script>
+  CMS.registerPreviewStyle("https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css");
+  CMS.registerPreviewStyle("/css/main.css");
+  </script>
 
   <script>
   var RecipePreview = createClass({
