@@ -40,7 +40,22 @@
       var entry = this.props.entry;
       return (
       h('div', {},
-      {HeadPreview},
+      h('div', {"className": "container"},
+        h('img', {"className": "img-bg", src: "/img/butterfly-green.svg"}),
+        h('div', {"className": "main-header"},
+          h('div', {"className": "row"},
+            h('div', {"className": "col"},
+              h('div', {"className": "col-left hidden-xs-down"})
+            ),
+            h('div', {"className": "col title"},
+              h('a', {}, "Omalogisch")
+            ),
+            h('div', {"className": "col"},
+              h('div', {"className": "col-right hidden-xs-down"})
+            )
+          )
+        )
+      ),
       h('div', {"id": "main"},
         h('div', {"className": "container"},
         h('h1', {"className": "title"}, entry.getIn(['data', 'title'])),
