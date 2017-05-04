@@ -23,8 +23,8 @@
         <div class="col-6 col-sm-3 p-1">
           <div class="imagebox">
           <a href="{{ .RelPermalink }}">
-            {{ if .Params.img }}
-            <img src="{{ .Site.BaseURL }}{{ .Params.img }}" class="img-fluid" alt="">
+            {{ if .Params.thumbnail }}
+            <img src="{{ .Site.BaseURL }}{{ .Params.thumbnail }}" class="img-fluid" alt="">
             {{ else }}
             <img src="{{ .Site.BaseURL }}img/insta/1.jpg" class="img-fluid" alt="">
             {{ end }}
