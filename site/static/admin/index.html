@@ -39,6 +39,8 @@
     render: function() {
       var entry = this.props.entry;
       return (
+      h('div', {},
+      {HeadPreview},
       h('div', {"id": "main"},
         h('div', {"className": "container"},
         h('h1', {"className": "title"}, entry.getIn(['data', 'title'])),
@@ -46,7 +48,7 @@
         h('div', {"className": "col-md-8"}, this.props.widgetFor('body')), h('div', {"className": "col"})
     )
   )
-  ));
+)));
   }
   });
 
@@ -54,7 +56,6 @@
     render: function() {
       var entry = this.props.entry;
       return (
-      {HeadPreview}
       h('div', {"className": "container single"},
       h('h2', {"className": "title"}, entry.getIn(['data', 'title'])),
       h("article", {"className": "content"},
