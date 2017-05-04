@@ -5,5 +5,5 @@ categories:
   - "kat"
 layout: "kat"
 rezeptecat: "suppenkaspar"
-img: "img/rezepte/kategorien/small/abendmahl.jpg"
+img: "img/recipe-categories/suppenkaspar.jpg"
 ---

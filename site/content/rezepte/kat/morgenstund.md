@@ -5,7 +5,7 @@ categories:
   - "kat"
 layout: "kat"
 rezeptecat: "morgenstund"
-img: "img/rezepte/kategorien/small/morgenstund.jpg"
+img: "img/recipe-categories/morgenstund.jpg"
 ---
 
 **trallllaaaa Guten Morgen ...." Was für ein schöner Tag" ...Strecken und dehnen... und auf geht's zur Morgenroutine!**

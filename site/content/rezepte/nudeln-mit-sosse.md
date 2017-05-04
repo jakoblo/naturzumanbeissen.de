@@ -1,10 +1,10 @@
 ---
 title: "Nudeln mit Soße"
 date: "2015-01-12T19:20:04-07:00"
-thumbnail: "/img/rezepte/nudeln.jpg"
+thumbnail: "/img/nudeln-mit-sosse.jpg"
 categories:
   - "mahlzeit"
-img1: "img/rezepte/nudeln.jpg"
+img1: "img/nudeln.jpg"
 ---
 
 Wer mag sie nicht..?

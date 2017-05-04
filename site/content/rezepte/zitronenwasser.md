@@ -3,6 +3,7 @@ title: "Zitronen-Wasser"
 date: "2015-01-12T19:20:04-07:00"
 categories:
   - "morgenstund"
+thumbnail: /img/miimi-milch.jpg
 ---
 
 jeden Morgen gleich nach dem Aufstehn!

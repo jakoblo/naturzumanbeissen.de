@@ -1,8 +1,8 @@
 ---
 title: "Entgiften und Aufbauen"
 date: "2015-01-12T19:20:04-07:00"
-img1: "img/entgiften/entgiften1.jpg"
-img2: "img/entgiften/entgiften2.jpg"
+img1: "/img/page_entgiften1.jpg"
+img2: "/img/page_entgiften2.jpg"
 ---
 
 Tipps für ein sexy Leben - gesund und fit alt werden

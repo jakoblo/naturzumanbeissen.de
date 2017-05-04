@@ -3,7 +3,7 @@ title: "KokoKakao"
 date: "2015-01-12T19:20:04-07:00"
 categories:
   - "morgenstund"
-
+thumbnail: /img/miimi-milch.jpg
 ---
 
 warm, schokoladig, süß, am frühen Morgen ...ein Traum  - nein!

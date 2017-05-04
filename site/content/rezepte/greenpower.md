@@ -1,7 +1,7 @@
 ---
 title: "Green Power"
 date: "2015-01-12T19:20:04-07:00"
-thumbnail: "/img/insta/2_crop.jpg"
+thumbnail: "/img/greenpower.jpg"
 categories:
   - "rohkost"
 ---

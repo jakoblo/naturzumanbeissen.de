@@ -5,5 +5,5 @@ categories:
   - "kat"
 layout: "kat"
 rezeptecat: "mahlzeit"
-img: "img/rezepte/kategorien/small/mahlzeit.jpg"
+img: "img/recipe-categories/mahlzeit.jpg"
 ---

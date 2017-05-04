@@ -5,5 +5,5 @@ categories:
   - "kat"
 layout: "kat"
 rezeptecat: "rohkost"
-img: "img/rezepte/kategorien/small/rohkost.jpg"
+img: "img/recipe-categories/rohkost.jpg"
 ---

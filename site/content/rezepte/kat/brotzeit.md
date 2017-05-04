@@ -5,5 +5,5 @@ categories:
   - "kat"
 layout: "kat"
 rezeptecat: "brotzeit"
-img: "img/rezepte/kategorien/small/brotzeit.jpg"
+img: "img/recipe-categories/brotzeit.jpg"
 ---

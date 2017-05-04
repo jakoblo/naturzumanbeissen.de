@@ -3,8 +3,8 @@ title: "BuWei Basenbrot"
 date: "2015-01-12T19:20:04-07:00"
 categories:
   - "brotzeit"
-thumbnail: "/img/rezepte/basenbrot.jpg"
-img1: "img/rezepte/basenbrot.jpg"
+thumbnail: "/img/basenbrot.jpg"
+img1: "/img/basenbrot.jpg"
 ---
 
 450g Mehl - zum Beispiel:  

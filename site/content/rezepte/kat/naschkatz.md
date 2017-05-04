@@ -5,5 +5,5 @@ categories:
   - "kat"
 layout: "kat"
 rezeptecat: "naschkatz"
-img: "img/rezepte/kategorien/small/naschkatz.jpg"
+img: "img/recipe-categories/naschkatz.jpg"
 ---

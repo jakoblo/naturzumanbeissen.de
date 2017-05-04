@@ -5,5 +5,5 @@ categories:
   - "kat"
 layout: "kat"
 rezeptecat: "mobilessen"
-img: "img/rezepte/kategorien/small/mobil-essen.jpg"
+img: "img/recipe-categories/mobil-essen.jpg"
 ---
