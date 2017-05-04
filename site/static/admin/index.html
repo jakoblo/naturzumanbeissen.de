@@ -32,6 +32,19 @@
   var PagePreview = createClass({
     render: function() {
       var entry = this.props.entry;
+
+      return (
+        <div>
+          <h1>{ entry.getIn(['data', 'title']) }</h1>
+          <div>{ this.props.widgetFor('body') }</div>
+        </div>
+      )
+  }
+  });
+
+  var PagePreview2 = createClass({
+    render: function() {
+      var entry = this.props.entry;
       return h('div', {},
       h('h1', {}, entry.getIn(['data', 'title'])),
       h('div', {"className": "text"}, this.props.widgetFor('body'))
