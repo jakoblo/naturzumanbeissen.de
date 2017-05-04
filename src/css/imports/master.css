@@ -21,6 +21,11 @@ body {
   text-align: center;
 }
 
+img {
+  max-width: 100%;
+  height: auto;
+}
+
 header {
   background-color: #FFF387;
   font-family: 'Open Sans Condensed', sans-serif;
