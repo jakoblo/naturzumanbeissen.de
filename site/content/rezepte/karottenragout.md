@@ -1,7 +1,7 @@
 ---
 title: "Süßkartoffel mit Karottenragout"
 date: "2015-01-12T19:20:04-07:00"
-img: "img/insta/2_crop.jpg"
+thumbnail: "img/insta/2_crop.jpg"
 categories:
   - "mahlzeit"
 ---

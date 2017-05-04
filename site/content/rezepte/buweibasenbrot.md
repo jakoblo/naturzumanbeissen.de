@@ -3,7 +3,7 @@ title: "BuWei Basenbrot"
 date: "2015-01-12T19:20:04-07:00"
 categories:
   - "brotzeit"
-img: "img/rezepte/basenbrot.jpg"
+thumbnail: "img/rezepte/basenbrot.jpg"
 img1: "img/rezepte/basenbrot.jpg"
 ---
 
