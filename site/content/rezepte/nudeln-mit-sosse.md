@@ -1,7 +1,7 @@
 ---
 title: "Nudeln mit Soße"
 date: "2015-01-12T19:20:04-07:00"
-thumbnail: "img/rezepte/nudeln.jpg"
+thumbnail: "/img/rezepte/nudeln.jpg"
 categories:
   - "mahlzeit"
 img1: "img/rezepte/nudeln.jpg"

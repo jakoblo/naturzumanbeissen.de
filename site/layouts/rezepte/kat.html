@@ -24,7 +24,7 @@
           <div class="imagebox">
           <a href="{{ .RelPermalink }}">
             {{ if .Params.thumbnail }}
-            <img src="{{ .Site.BaseURL }}{{ .Params.thumbnail }}" class="img-fluid" alt="">
+            <img src="{{ .Params.thumbnail }}" class="img-fluid" alt="">
             {{ else }}
             <img src="{{ .Site.BaseURL }}img/insta/1.jpg" class="img-fluid" alt="">
             {{ end }}
