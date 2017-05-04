@@ -26,7 +26,7 @@ Wenn es feiner sein darf einfach durch ein Teesieb gießen!
 **MANDELmilch**  
 ca. 16-20 Mandeln mehrere Stunden oder über Nacht in Wasser einweichen!  
 Dann spülen und braune Haut abzupfen!  
-Falls dies noch nicht leicht geht - nochmal kurz in gut warmes Wasser 
+Falls dies noch nicht leicht geht - nochmal kurz in gut warmes Wasser
 geben... dann gehts runter!  
 Die gewaschenen weissen Mandeln in den Mixer geben und mit
 500ml Wasser  
@@ -38,7 +38,7 @@ Alle drei **Milchvarianten** eignen sich für:
 **Bananenmilch  
 Kakao  
 Nussmilch  
-Milchshaks  **
+Milchshaks**
 
 alternativ aus der Packung:  
 Oatly Haferdrink  
