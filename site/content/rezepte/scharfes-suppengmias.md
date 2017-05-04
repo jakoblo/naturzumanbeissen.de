@@ -3,7 +3,7 @@ title: Scharfes SuppenGmüs
 date: 2017-05-03T22:00:00.000Z
 categories:
   - mahlzeit
-thumbnail: /img/scharf-suppengm-2.jpg
+thumbnail: /img/scharf-suppengm-thumb.jpg
 ---
 1 Zwiebel kl. geschnitten + Kräutersalz in den Topf geben  
 2  Karotten  
