@@ -1,7 +1,8 @@
 ---
 title: Scharfes SuppenGmüs
 date: 2017-05-03T22:00:00.000Z
-categories: mahlzeit
+categories:
+  - "mahlzeit"
 thumbnail: null
 ---
 1 Zwiebel kl. geschnitten \+ Kräutersalz in den Topf geben  
