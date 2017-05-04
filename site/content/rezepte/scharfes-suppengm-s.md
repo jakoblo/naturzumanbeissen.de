@@ -3,7 +3,7 @@ title: Scharfes SuppenGmüs
 date: 2017-05-03T22:00:00.000Z
 categories:
   - mahlzeit
-thumbnail: null
+thumbnail: /img/scharf-suppengm-2.jpg
 ---
 1 Zwiebel kl. geschnitten \+ Kräutersalz in den Topf geben  
 2  Karotten  
@@ -25,4 +25,5 @@ eine kleine Dose Kokosmilch angiessen und mixen!
 mit den Röschen und wer mag Korianderkraut anrichten
 
 ![suppen-gmias2](/img/scharf-suppengm-2.jpg)
+
 
