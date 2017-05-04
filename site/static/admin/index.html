@@ -15,40 +15,56 @@
   </script>
 
   <script>
+
+  var HeadPreview = (
+    h('div', {"className": "container"},
+      h('img', {"className": "img-bg", src: "/img/butterfly-green.svg"})
+      h('div', {"className": "main-header"},
+        h('div', {"className": "row"},
+          h('div', {"className": "col"},
+            h('div', {"className": "col-left hidden-xs-down"})
+          )
+          h('div', {"className": "col title"},
+            h('a', {}, "Omalogisch")
+          )
+          h('div', {"className": "col"},
+            h('div', {"className": "col-right hidden-xs-down"})
+          )
+        )
+      )
+    )
+  )
+
   var RecipePreview = createClass({
     render: function() {
       var entry = this.props.entry;
-      return h('div', {"id": "main"},
-      h('div', {"className": "container"},
-      h('h1', {"className": "title"}, entry.getIn(['data', 'title'])),
-      h('div', {"className": "row"},
-      h('div', {"className": "col-md-8"}, this.props.widgetFor('body')), h('div', {"className": "col"})
+      return (
+      HeadPreview
+      h('div', {"id": "main"},
+        h('div', {"className": "container"},
+        h('h1', {"className": "title"}, entry.getIn(['data', 'title'])),
+        h('div', {"className": "row"},
+        h('div', {"className": "col-md-8"}, this.props.widgetFor('body')), h('div', {"className": "col"})
     )
   )
-  );
+  ));
   }
   });
 
   var PagePreview = createClass({
     render: function() {
       var entry = this.props.entry;
-
       return (
-        <div>
-          <h1>{ entry.getIn(['data', 'title']) }</h1>
-          <div>{ this.props.widgetFor('body') }</div>
-        </div>
+      {HeadPreview}
+      h('div', {"className": "container single"},
+      h('h2', {"className": "title"}, entry.getIn(['data', 'title'])),
+      h("article", {"className": "content"},
+        h('div', {"className": "row"},
+          h('div', {"className": "col-md-8"}, this.props.widgetFor('body')),
+          h('div', {"className": "col"})
+        )
       )
-  }
-  });
-
-  var PagePreview2 = createClass({
-    render: function() {
-      var entry = this.props.entry;
-      return h('div', {},
-      h('h1', {}, entry.getIn(['data', 'title'])),
-      h('div', {"className": "text"}, this.props.widgetFor('body'))
-    );
+    ));
   }
   });
 
