@@ -6,6 +6,7 @@ categories:
   - morgenstund
   - naschkatz
 thumbnail: /img/miimi-milch.jpg
+img1: /img/miimi-milch1.jpg
 ---
 **CASHEWmilch:**  
 10-14 Cashews  

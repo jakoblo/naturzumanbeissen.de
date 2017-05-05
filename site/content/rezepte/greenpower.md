@@ -1,7 +1,8 @@
 ---
 title: "Green Power"
 date: "2015-01-12T19:20:04-07:00"
-thumbnail: "/img/greenpower.jpg"
+thumbnail: "/img/greenpower_thumb.jpg"
+img1: "/img/greenpower.jpg"
 categories:
   - "rohkost"
 ---
