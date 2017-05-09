@@ -1,8 +1,9 @@
 
 
 .rezepte {
-  & .imagebox {
 
+
+  & .imagebox {
 
     & h2 {
       font-size: 1.5em;
@@ -14,6 +15,7 @@
     & .title {
       padding-top: 30px;
       font-family: 'Oswald', sans-serif;
+      text-align: center;
     }
 
     & .content {
@@ -26,9 +28,24 @@
     }
 }
 
+.recipe-single {
+  max-width: 45em;
+  margin: auto;
+
+  & .title {
+    padding-top: 30px;
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+  }
+
+  & .content {
+    padding-top: 15px;
+  }
+}
+
 .kategorie {
   & .title {
-    padding-bottom: 10px;
+    padding-bottom: 2px;
     font-family: 'Oswald', sans-serif;
   }
 }

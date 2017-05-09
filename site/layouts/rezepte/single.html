@@ -1,24 +1,21 @@
 {{ partial "rezepte-header.html" . }}
 
 <section id="main">
-  <div class="container rezepte">
+  <div class="container recipe-single">
 
   <h1 class="title">{{ .Title }}</h1>
-  <div class="row">
-    <div class="col-md-8">
-      <article class="content">
-        {{ .Content }}
-      </article>
-    </div>
-    <div class="col">
-      {{ if .Params.thumbnail }}
+
+    <article class="content">
+      {{ .Content }}
+    </article>
+
+
+      <!-- {{ if .Params.thumbnail }}
         <img src="{{ .Params.thumbnail }}" class="img-fluid rounded" alt="">
       {{ end }}
       {{ if .Params.img1 }}
         <img src="{{ .Params.img1 }}" class="img-fluid rounded pt-2" alt="">
-      {{ end }}
-    </div>
-  </div>
+      {{ end }} -->
 
   </div>
 </section>
