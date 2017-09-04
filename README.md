@@ -1,4 +1,4 @@
-# Victor Hugo
+# Omalogische Website - omalogisch.de
 
 **A [Hugo](https://gohugo.io/) boilerplate for creating truly epic websites**
 
