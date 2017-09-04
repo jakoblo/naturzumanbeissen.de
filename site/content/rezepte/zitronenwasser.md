@@ -1,11 +1,10 @@
 ---
-title: "Zitronen-Wasser"
-date: "2015-01-12T19:20:04-07:00"
+title: Zitronen-Wasser
+date: '2015-01-12T19:20:04-07:00'
 categories:
-  - "morgenstund"
+  - morgenstund
 thumbnail: /img/zitronenwasser.jpg
 ---
-
 jeden Morgen gleich nach dem Aufstehn!
 Muntermacher für Magen, Verdauung, Denke...
 
