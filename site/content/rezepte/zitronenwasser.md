@@ -5,13 +5,16 @@ categories:
   - morgenstund
 thumbnail: /img/zitronenwasser.jpg
 ---
-jeden Morgen gleich nach dem Aufstehn!
-Muntermacher für Magen, Verdauung, Denke...
+**1. Getränk am frühen Morgen** am Besten gefolgt von einem Glas warmen Wasser
 
-auf ein Glas warmes Wasser
-1 Tl. Honig (wer kann! sonst nur Zitrone)
-ca.2 Eßl Zitronensaft frisch
-kann auch noch aufgepeppt werden mit Ingwer und oder Zimt
+1 Glas warmes Wasser ( nicht heisser wie 40 Grad um Honig und Zitronensaft nicht zu zerstören)
 
-verrühren, verführen, genießen
-Zitronendrink ans Bett ...himmlisch!
+1 Tl. Honig
+
+mind. 2 Eßl frisch gepressten Zitronensaft 
+
+kann aufgepeppt werden mit Zimt und/oder Ingwer
+
+verrühren, probieren, genießen!
+
+ Zitronendrink ans Bett ...himmlisch!
