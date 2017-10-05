@@ -29,3 +29,4 @@ dann eine kleine Dose Kokosmilch (Alnatura) angießen und mit einem Pürierstab 
 Mit den Röschen und wer mag Korianderkraut anrichten
 
 ![suppen-gmias2](/img/suppengmias2.jpg)
+
