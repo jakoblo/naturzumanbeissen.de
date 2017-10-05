@@ -1,26 +1,28 @@
 ---
-title: "Green Power"
-date: "2015-01-12T19:20:04-07:00"
-thumbnail: "/img/greenpower_thumb.jpg"
-img1: "/img/greenpower.jpg"
+title: Green Power
+date: '2015-01-12T19:20:04-07:00'
 categories:
-  - "rohkost"
+  - rohkost
+thumbnail: /img/greenpower_thumb.jpg
+img1: /img/greenpower.jpg
 ---
-
 Wenn sich der "Durchhänger" anschleicht....
 wenn man ihm ganz und gar nicht mit Kaffee entgegentreten möchte...
 
-mach den Green Power Drink:
-20 Chlorella Algen
-10 Spirulina Algen
-1 Eßl. Gerstengras
-Saft einer Grapefruit
-je nach Geschmack mit Wasser verdünnen
+mach den grünen Powerdrink:
 
-mixen uuuund ex! ..nein natürlich einspeicheln wäre auch hier gut aber vorsicht! schnell schaut man aus wie ein Zombiiiii
+ 1 Eßl. Gerstengraspulver oder noch besser GerstengrasSAFTpulver
 
-Nicht ganz so kräftig und giftgrün aber auch sehr wirksam, besonders für mal schnell so zwischendurch und echt lecker:
+auch andere grüne Pulver dazu sind möglich!
 
-ohne Algen!
+z.B. Brennessel, Petersilie, Moringa…
 
-mit Algen ist es schon eine kleine Mahlzeit!
+Saft einer Grapefruit oder 1-2 Orangen
+
+ je nach Geschmack mit Wasser verdünnen
+
+mixen oder einfach in ein Glas mit Schraubdeckel geben und verschütteln
+
+uuuund ex! ..nein natürlich einspeicheln wäre auch hier gut aber vorsicht! schnell schaut man aus wie ein Zombiiiii
+
+mit ein paar Spirulina dazu oder ca. 10 Chlorella ist es schon eine kleine Mahlzeit!
