@@ -1,5 +1,5 @@
 ---
-title: KokoKakao
+title: Kakaoooo
 date: '2015-01-12T19:20:04-07:00'
 categories:
   - morgenstund
@@ -31,3 +31,4 @@ Zimt, Cardamom, Ingwer,  Lebkuchengewürz, Vanille je nach Lust und Laune
 
 dazu kann man eine oder zwei Bananen mampfen
 oder 2-3 Datteln mit  3-5 Walnüssen
+
