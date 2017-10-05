@@ -8,26 +8,25 @@ img1: img/nudeln.jpg
 ---
 **Wer mag sie nicht..?**
 
-
 Aber natürlich nur mit Buchweizen-,Reis-, Linsen- oder KichererbsenNUDELN!
 
 **wenns gaaanz schnell gehn muss:**
 
 mit BioTomatensauce …einfach erwärmen und nachwürzen
 
-etwas Olivenöl dazu und frische Kräuter 
+etwas Olivenöl dazu und frische Kräuter
 
-**Oder - mit bischen mehr Zeit:**
+**Oder - mit bisschen mehr Zeit:**
 
 1 gehackte Zwiebel, 1-2 geriebene Zehen Knoblauch mit Salz bestreuen und in einen Topf geben - zugedeckt vorsichtig kurz andünsten (ohne Öl)
 
- 1 Dose gehackte Tomaten (**oder** 4-5 frische gewürfelte Tomaten) dazu geben und würzen:
+1 Dose gehackte Tomaten (**oder** 4-5 frische gewürfelte Tomaten) dazu geben und würzen:
 
 Oregano, Cayennepfeffer, Kräutersalz, Basilikum
 
 mit etwas Olivenöl pürieren und genießen
 
-Zum bestreuen:
+Zum Bestreuen:
 
 **Mandelparmesan:** grob gemahlene Mandeln mit etwas Salz in einer trockenen Pfanne vorsichtig anrösten
 
