@@ -11,15 +11,13 @@ wenn man ihm ganz und gar nicht mit Kaffee entgegentreten möchte...
 
 mach den grünen Powerdrink:
 
- 1 Eßl. Gerstengraspulver oder noch besser GerstengrasSAFTpulver
+1 Eßl. Gerstengraspulver oder noch besser GerstengrasSAFTpulver
 
-auch andere grüne Pulver dazu sind möglich!
-
-z.B. Brennessel, Petersilie, Moringa…
+\(auch andere grüne Pulver dazu sind möglich!z.B. Brennessel, Petersilie, Moringa…)
 
 Saft einer Grapefruit oder 1-2 Orangen
 
- je nach Geschmack mit Wasser verdünnen
+je nach Geschmack mit Wasser verdünnen
 
 mixen oder einfach in ein Glas mit Schraubdeckel geben und verschütteln
 
