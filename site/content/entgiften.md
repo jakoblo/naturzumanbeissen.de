@@ -11,7 +11,7 @@ Nähren, erhalten, verbessern
 
 durch basenreiche, chlorophylreiche, gemüseüberschüssige NATUR-liche Ernährung
 durch Wasser trinken - wir bestehen aus ca. 80%! - nicht Kaffe oder Bier!\
-durch richtiges Atmen und Bewegung = Sauerstoff für die Zelle und heutzutage Nahrungsergänzungsmittel 
+durch richtiges Atmen und Bewegung = Sauerstoff für die Zelle und heutzutage Nahrungsergänzungsmittel
 
 SONNIGE ZEITEN 🌞 mit VITAMIN D3
 
@@ -25,7 +25,7 @@ d.h. wir soĺlten zwischen ca. 11 und 15 Uhr der Sonne viel Haut zeigen (mindest
 Wer kann das?\
 Auch die Darmschleimhaut muss gesund sein, damit die Vitamin D3 Aufnahme nicht gestört ist!
 
-Buch: Gesund in 7 Tagen - Erfolge mit der Vitamin D Therapie - Youtube!
+Buch: Gesund in 7 Tagen - Erfolge mit der Vitamin D Therapie - Dr. med. Raimund von Helden
 
 \
 https://youtu.be/mcd0eiToO8A Dr. med. Raimund von Helden\
