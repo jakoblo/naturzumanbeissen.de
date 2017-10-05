@@ -3,7 +3,7 @@ title: BuWei Basenbrot
 date: '2015-01-12T19:20:04-07:00'
 categories:
   - brotzeit
-thumbnail: /img/basenbrot.jpg
+thumbnail: /img/20160308_103359.JPG
 img1: /img/20160308_103359.JPG
 ---
 
@@ -38,4 +38,5 @@ Chia zieht sehr viel Wasser - man kann es auch mit Wasser einweichen (dicker Bre
 (der Teig soll dann so flüssig sein, dass man ihn aus der Schüssel in die Form gießen kann)
 
 GUTES GELINGEN!
+
 
