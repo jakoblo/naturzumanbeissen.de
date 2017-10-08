@@ -5,11 +5,9 @@ categories:
   - morgenstund
 thumbnail: /img/zitronenwasser.jpg
 ---
-**1. Getränk am frühen Morgen** 
+**1. Getränk am frühen Morgen**
 
-\(am Besten gefolgt von einem Glas warmen Wasser)
-
-1 Glas warmes Wasser 
+1 Glas warmes Wasser
 
 \( nicht heisser wie 40 Grad um Honig und Zitronensaft nicht zu zerstören)
 
