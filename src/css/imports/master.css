@@ -52,6 +52,8 @@ header {
     text-align: center;
     font-family: 'Tangerine', cursive;
     font-size: 5.5rem;
+    line-height: 80%;
+    margin-bottom: .2em;
 
     & a {
       text-decoration: none;
