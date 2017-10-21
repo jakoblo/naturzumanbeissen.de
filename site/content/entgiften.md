@@ -15,6 +15,7 @@ chlorophylreiche \
 gemüseüberschüssige \
 NATUR-liche Ernährung\
 durch Wasser trinken  \
+
 * wir bestehen aus ca. 80% Wasser! (nicht Kaffe oder Bier)
 
 durch richtiges Atmen = Sauerstoff für die Zelle\
