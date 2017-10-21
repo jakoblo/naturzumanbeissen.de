@@ -11,12 +11,12 @@ Jede Blume braucht Pflege:
 **ernähren - pflegen  - optimieren**
 
 durch basenreiche \
-chlorophylreiche
+chlorophylreiche \
 gemüseüberschüssige 
 NATUR-liche Ernährung\
 durch Wasser trinken  \
--wir bestehen aus ca. 80% Wasser!\
-(nicht Kaffe oder Bier)\
+* wir bestehen aus ca. 80% Wasser! (nicht Kaffe oder Bier)
+
 durch richtiges Atmen = Sauerstoff für die Zelle\
 durch Bewegung = Lymphsystem-Pumpe ( das Lympsystem hat keinen eigenen Antreiber - wenn wir uns nicht genügend bewegen kann es zu Lymphstau kommen)\
 durch "guten Dünger" \
