@@ -28,7 +28,7 @@ SONNIGE ZEITEN 🌞 mit **VITAMIN D3**
 Im Dunkeln ist gut munkeln... aber
 **WIR BRAUCHEN LICHT!** Sonne! ♡ VITAMIN D3 ♡\
 ohne Licht kein Leben zur besseren Verwertung braucht der Körper dazu \
-♡ **VITAMIN K2 **♡ und \
+♡ **VITAMIN K2** ♡ und \
 ♡ **MAGNESIUM**  \
 (auch über die Haut aufgetragen- Magnesiumöl)
 
