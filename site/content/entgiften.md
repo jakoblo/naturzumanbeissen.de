@@ -12,7 +12,7 @@ Jede Blume braucht Pflege:
 
 durch basenreiche \
 chlorophylreiche \
-gemüseüberschüssige 
+gemüseüberschüssige \
 NATUR-liche Ernährung\
 durch Wasser trinken  \
 * wir bestehen aus ca. 80% Wasser! (nicht Kaffe oder Bier)
