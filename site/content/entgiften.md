@@ -20,13 +20,17 @@ durch Wasser trinken  \
 durch richtiges Atmen = Sauerstoff für die Zelle\
 durch Bewegung = Lymphsystem-Pumpe ( das Lympsystem hat keinen eigenen Antreiber - wenn wir uns nicht genügend bewegen kann es zu Lymphstau kommen)\
 durch "guten Dünger" \
-- heutzutage sollten wir gute Nahrungsergänzungsmittel einsetzen
 
-SONNIGE ZEITEN 🌞 mit VITAMIN D3
+* heutzutage sollten wir gute Nahrungsergänzungsmittel einsetzen
+
+SONNIGE ZEITEN 🌞 mit **VITAMIN D3**
 
 Im Dunkeln ist gut munkeln... aber
 **WIR BRAUCHEN LICHT!** Sonne! ♡ VITAMIN D3 ♡\
-ohne Licht kein Leben zur besseren Verwertung braucht der Körper dazu ♡ Vitamin K2 ♡ und ♡ Magnesium ♡ ( auch über die Haut aufgetragen- Magnesiumöl)
+ohne Licht kein Leben zur besseren Verwertung braucht der Körper dazu \
+♡ **VITAMIN K2 **♡ und \
+♡ **MAGNESIUM**  \
+(auch über die Haut aufgetragen- Magnesiumöl)
 
 Erklärung:
 D3 kann im Sommer über die Haut durch die Sonne aufgenommen werden
