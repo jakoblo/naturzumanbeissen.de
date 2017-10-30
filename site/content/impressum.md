@@ -15,7 +15,7 @@ Monika Lobensteiner, 83313 Siegsdorf
 
 ### Copyright
 
-Alle Rechte an den Texten und Abbildungen liegen, sofern nicht ausdrücklich anders gekennzeichnet, bei der Autorin. Sofern Sie eine Nutzung beabsichtigen, wenden Sie sich bitte mit Hilfe der E-Mail Adresse an die Autorin. Bitte respektieren Sie das geistige Eigentum. Sofern Sie der Meinung sind, dass Inhalte auf omalogisch.de Ihre Rechte verletzen, kontaktieren Sie uns, wir werden unverzüglich Abhilfe schaffen.
+Alle Rechte an den Texten und Abbildungen liegen, sofern nicht ausdrücklich anders gekennzeichnet, bei der Autorin. Sofern Sie eine Nutzung beabsichtigen, wenden Sie sich bitte mit Hilfe der E-Mail Adresse an die Autorin. Bitte respektieren Sie das geistige Eigentum. Sofern Sie der Meinung sind, dass Inhalte auf naturzumanbeissen.de Ihre Rechte verletzen, kontaktieren Sie uns, wir werden unverzüglich Abhilfe schaffen.
 
 ### Haftung für Inhalte
 
