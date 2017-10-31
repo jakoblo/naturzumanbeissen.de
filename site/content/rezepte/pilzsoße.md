@@ -4,6 +4,7 @@ date: 2017-10-31T16:59:50.052Z
 categories:
   - mahlzeit
 thumbnail: /img/IMG_20171031_171358285.jpg
+img1: /img/IMG_20171031_163846540.jpg
 ---
 2 Zwiebeln
 
@@ -21,4 +22,4 @@ würzen mit Kräutersalz,  Pfeffer und etwas Petetsilie und kosten....mmmmm
 
 schmeckt z.B. zu Ofen - Süsskartoffel und Ofen-Blumenkohlröschen
 
-auch über Linsennudeln oder Quinoa
+auch über Linsennudeln oder Quinoa, zum Grillteller
