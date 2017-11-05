@@ -11,7 +11,7 @@ thumbnail: /img/IMG_20171101_113733192.jpg
 
 dann mit ca.**200ml**  heißem **Wasser** aufgießen und gar kocken
 
-die **Nudeln **nach Anleitung in Salzwasser kochen
+die **Nudeln** nach Anleitung in Salzwasser kochen
 
 1 ca. 3 cm großes Stück **Meerettich** fein reiben ( bei offenem Fenster😥) und zusammen mit  der Zwiebel-, Kartoffelmischung und
 
