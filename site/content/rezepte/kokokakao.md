@@ -15,15 +15,15 @@ ab in den Mixer:
 
 1 Essl. Mandelmus, oder Kokosmus, oder Cashewmus, oder Haselnussmus
 
-
 2 Datteln
 
 1 gehäufter Tl. Kakaopulver 
 
 1/4 Tl. Guarana ( für die ganz müden Geister)
-200 - 250 ml ca. 60 Grad warmes Wasser
-mixen!
 
+
+mit 200 - 250 ml ca. 60 Grad warmes Wasser
+mixen!
 
 würzen, aufmotzen, dekorieren mit:
 
@@ -31,5 +31,3 @@ Zimt, Cardamom, Ingwer,  Lebkuchengewürz, Vanille je nach Lust und Laune
 
 dazu kann man eine oder zwei Bananen mampfen
 oder 2-3 Datteln mit  3-5 Walnüssen
-
-
