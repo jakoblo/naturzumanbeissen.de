@@ -9,7 +9,7 @@ img2: /img/IMG_20171029_131805598.jpg
 ---
 Wir sind stolz euch hier einen super guten, gesunden Mürbteig vorstellen zu dürfen - jetzt heißt's wirklich: 'Naschen ohne Reue'
 
-Wir brauchen** 1 reife Banane** die wir mit einer Gabel klein machen und in eine Schüssel geben.
+Wir brauchen** 1 reife Banane** (ca. 130g) die wir mit einer Gabel klein machen und in eine Schüssel geben.
 
 Dazu kommen nun:
 
@@ -25,7 +25,6 @@ Dazu kommen nun:
 
 **
 1 Prise Salz**
-
 
 alles gut miteinander verkneten und in eine Springform (26cm)  drücken (auch etwas Rand)
 
