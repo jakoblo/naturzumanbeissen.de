@@ -26,6 +26,8 @@ verkneten mit:
 
 Teig in eine Springform (26cm) drücken - mit etwas Rand und mit ein paar Haferflocken bestreuen
 
+Man kann auch ein klein wenig vom Teig aufheben für ein  paar Streusel als Topping...oder etwas mehr Teig machen um einen Streuselkuchen zu kreieren!
+
 Belag:
 
 **400g Äpfel **geraspelt auf den Teigboden verteilen
