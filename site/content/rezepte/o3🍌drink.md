@@ -2,7 +2,7 @@
 title: "O3\U0001F34CDrink"
 date: 2017-11-12T15:36:44.765Z
 categories:
-  - nashkatz
+  - nashkatz morgenstund rohköstlich
 thumbnail: /img/20160708_084938.JPG
 ---
 Oooohh 🙄 ich brauch was Süßes ...schneeeellll
