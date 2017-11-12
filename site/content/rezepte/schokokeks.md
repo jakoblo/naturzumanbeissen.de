@@ -27,7 +27,7 @@ alle trockenen Zutaten in eine Schüssel geben und gut mischen
 
 dann die flüssigen unterrühren:
 
-**70g Kokosöl **(im Wasserbad erwärmt)
+**70g Kokosöl** (im Wasserbad erwärmt)
 
 **50ml Milchersatz**
 
