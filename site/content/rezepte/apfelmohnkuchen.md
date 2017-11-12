@@ -18,7 +18,7 @@ verkneten mit:
 
 **50g Kokosflocken gemahlen**
 
-**30 g Kartoffelmehl**
+**30g Kartoffelmehl**
 
 **3-4 Eßl. Agavensirup**
 
