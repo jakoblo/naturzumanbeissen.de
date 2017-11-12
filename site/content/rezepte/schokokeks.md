@@ -3,7 +3,7 @@ title: Schokokeks
 date: 2017-11-12T16:13:55.040Z
 categories:
   - Naschkatz
-thumbnail: /img/69ba7a77-c5e2-42c2-bc06-70ac9dd845a2.jpg
+thumbnail: /img/20171112_173943.jpg
 ---
 lecker, schokoladig, knuspern - nicht nur für die Weihnachtszeit 😋 
 
