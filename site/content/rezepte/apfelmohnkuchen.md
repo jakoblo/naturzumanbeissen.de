@@ -8,7 +8,7 @@ img1: /img/IMG_20171110_135906364.jpg
 ---
 Hier eine weitere Mürbteigvariante - etwas feiner, kaum zu glauben, kein Ei kein Fett!
 
-**1 reife Banane **(ca. 130g) zerdrücken
+**1 reife Banane** (ca. 130g) zerdrücken
 
 verkneten mit:
 
@@ -30,7 +30,7 @@ Man kann auch ein klein wenig vom Teig aufheben für ein  paar Streusel als Topp
 
 Belag:
 
-**400g Äpfel **geraspelt auf den Teigboden verteilen
+**400g Äpfel** geraspelt auf den Teigboden verteilen
 
 evtl. eine handvoll **Rosinen** dazu und natürlich **Zimt**
 
@@ -40,7 +40,7 @@ Mohnmasse:
 
 **140g Datteln** ohne Kern
 
-**500ml Milchersatz **(Hafer, Mandel,)
+**500ml Milchersatz** (Hafer, Mandel,)
 
 **30g Kartoffelmehl**
 
