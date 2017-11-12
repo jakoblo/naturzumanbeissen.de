@@ -7,7 +7,7 @@ categories:
   - '"naschkatz"'
 thumbnail: /img/20160708_084938.JPG
 ---
-Oooohh 🙄 ich brauch was Süßes ...schneeeellll
+Oooohh 🙄 ich brauch was Süßes... schneeeellll
 
 und dann noch Omega 3 Power mit Chia und Hanf
 
