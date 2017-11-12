@@ -19,7 +19,7 @@ und dann noch Omega 3 Power mit Chia und Hanf
 
 Gewürze je nach Lust und Laune:
 
-**1/2 Teel. Zimt  und 1 Prise Kardamom  **auch etwas Sekulatiusgewürz ist lecker
+**1/2 Teel. Zimt  und 1 Prise Kardamom  **auch etwas Spekulatiusgewürz ist lecker
 
 oder **1/2 Teel. Vanille**
 
