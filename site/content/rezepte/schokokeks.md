@@ -13,7 +13,7 @@ lecker, schokoladig, knuspern - nicht nur für die Weihnachtszeit 😋
 
 **75g Kartoffelmehl**
 
-**3og Kakao**
+**30g Kakao**
 
 **90g Kokosblütenzucker oder Birkenzucker**
 
