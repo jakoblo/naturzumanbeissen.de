@@ -25,10 +25,16 @@ lecker, schokoladig, knuspern - nicht nur für die Weihnachtszeit 😋
 
 alle trockenen Zutaten in eine Schüssel geben und gut mischen
 
-dann unterrühren/ kneten:
+dann die flüssigen unterrühren:
 
 **70g Kokosöl **(im Wasserbad erwärmt)
 
 **50ml Milchersatz**
 
 **75g Ahornsirup**
+
+wer mag kann noch ca. 11/2Essl. Schokodrops unterrühren (bio vegan) 
+
+Jetzt mit  Löffel kleine Häufchen aufs Blech (Backpapier) setzen und in den vorgeheitzen Ofen  schieben.
+
+Heißluft 180 Grad  15 min.
