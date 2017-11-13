@@ -13,14 +13,13 @@ nährt auf der ganzen Linie!
 
 ab in den Mixer:
 
-1 Essl. Mandelmus, oder Kokosmus, oder Cashewmus, oder Haselnussmus
+1 Teel.  Mandelmus, oder Kokosmus, oder Cashewmus, oder Walnussmus 
+
+**oder** 1 Eßl. Hanfnüsschen
 
 2 Datteln
 
 1 gehäufter Tl. Kakaopulver 
-
-1/4 Tl. Guarana ( für die ganz müden Geister)
-
 
 mit 200 - 250 ml ca. 60 Grad warmes Wasser
 mixen!
