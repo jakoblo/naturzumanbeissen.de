@@ -7,7 +7,7 @@ thumbnail: /img/sueskartoffel-karotten.jpg
 ---
 pro Nase 1 große Süßkartoffel 
 
-vierteln und mit Salz und Pfannengewürz  in etwas Wasser weichkochen oder im Ofen backen!
+vierteln und mit Salz und Pfannengewürz  im Ofen backen  200 Grad  Heißluft ca. 15min.
 
 RAGOUT:
 
@@ -17,11 +17,17 @@ RAGOUT:
 
 2 in Würfel geschnittene Karotten
 
+1 Pastinake in Würfel
+
 Salz Pfeffer etwas Kurkuma Paprika, Rosmarin, Spritzer Zitrone
 
 mit ganz wenig Wasser weichdünsten
-vom Herd nehmen und ca.1 -2 Essl. Kokosöl untermischen
+vom Herd nehmen und ca.1 EL Kokosöl untermischen
 
 Süsskartoffeln auf dem Teller anrichten, mit Ragout beglücken und geniEssen
 
-Schnell, einfach, leicht zu verdauen gut für abends evtl. mit Salat ein tolles Gericht - auch für Gäste! Statt Süßkartoffel auch Kartoffel oder Kürbis evtl. auch 1/4 gedünsteten Spitzkohl ..uiii muß ich probieren ;)
+Schnell, einfach, leicht zu verdauen gut für abends evtl. mit Salat ein tolles Gericht - auch für Gäste! 
+
+Statt Süßkartoffel auch Kartoffel - oder Kürbis und Blumenkohlröschen  mit im Ofen garen
+
+evtl. auch 1/4 gedünsteten Spitzkohl ..uiii muß ich probieren ;)
