@@ -2,7 +2,7 @@
 title: Müsli- O3
 date: 2017-11-13T18:20:26.961Z
 categories:
-  - '''Morgenstund" "Naschkatz"'
+  - Morgenstund
 thumbnail: /img/20171111_090740.jpg
 ---
 etwas Warmes braucht der Mensch - besonders zum Start in den Tag ...
