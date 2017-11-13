@@ -21,10 +21,14 @@ Mit **3 Walnüssen **(frisch geknackt) und **1Banane **(kl. Stückchen schneiden
 
 Auch andere Obstsorten dürfen mit dazu
 
-\- Rosinen, Datteln, Feigen am Besten mit den Haferflocken  einweichen
+\- Rosinen, Datteln, Feigen (am Besten mit den Haferflocken  einweichen)
 
 \- Birnen, säurearme Äpfel, Papaya, reife Aprikosen, reife Mango, Feigen,  Blaubeeren
 
 \- nur bitte keine säurehaltigen Früchte ( Getreide und SauerObst macht Blähungen)
+
+Mögliches Topping: 🤔
+
+Amaranth und/oder Quinoa und/oder Buchweizen gepoppt
 
 Die so wichtigen Omega 3 Fette sind besonders in Leinsamen, Chia, Walnuss und Hanf zu finden
