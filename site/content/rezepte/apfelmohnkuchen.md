@@ -48,7 +48,7 @@ Datteln in einen guten Mixer geben und in der Milch einweichen, mixen!
 
 Kartoffelmehl und Mohn langsam untermixen
 
-Die Masse über die Äpfel  gießen und  den Kuchen im vorgeheizten Backofen bei 180 Grad ca. 45 min backen
+Die Masse über die Äpfel  gießen und  den Kuchen im vorgeheizten Backofen bei 170 Grad Umluft ca. 40 min backen
 
 schmeckt wie immer warm und kalt - doch der Mohngeschmack entfaltet sich erst richtig nach dem abkühlen!
 
