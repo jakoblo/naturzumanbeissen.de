@@ -4,8 +4,6 @@ date: 2017-10-08T15:39:09.715Z
 categories:
   - brotzeit
 thumbnail: /img/20171008_193253.jpg
-img1: null
-img2: null
 ---
 Alle Mehle die ich bei diesem Brot verwende gibts im Bioladen:
 
@@ -35,7 +33,7 @@ Den Honig dazu geben und das Wasser langsam unterrühren
 
 In eine mit Backpapier ausgelegte Kastenform gießen und 1/2 Std. an einem warmen Ort gehen lassen 
 
-Das gegangene Brot in dem auf 180 Grad Umluft vorgeheizten Ofen ca. 1 Std backen
+Das gegangene Brot im vorgeheizten Ofen bei 180 Grad Heißluft ca. 1 Std backen
 
 Aus der Form nehmen und evtl. ca. 5 - 10 Min. nachbacken wenn man’s schön knusprig mag
 
