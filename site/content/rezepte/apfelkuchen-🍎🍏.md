@@ -37,6 +37,6 @@ wer mag kann noch mit **Rosinen** aufpeppen und/oder **Mandelblättchen**
 
 und den Kuchen im vorgeheizten Backofen bei 
 
-175 Grad ca. 45 min backen🤗
+170 Grad  Umluft ca. 40  min backen🤗
 
 vui Spass und geniEssen
