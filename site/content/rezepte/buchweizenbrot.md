@@ -4,13 +4,11 @@ date: 2017-06-03T10:46:29.414Z
 categories:
   - brotzeit
 thumbnail: /img/basenbrot.jpg
-img1: null
-img2: null
 ---
 Mona´s Lieblingsbrot
 
 250g Buchweizen gemahlen\
-200g glutenfreie Haferflocken gemahlen\
+200g glutenfreie Haferflocken gemahlen (Hafermehl)\
 40g   Leinsamen frisch gemahlen\
 1-2 Eßl. Brotgewürz gemahlen\
 2 Tel. Meersalz oder Steinsalz\
@@ -22,8 +20,8 @@ Die trockenen Zutaten in einer Küchenmaschine oder Rührschüssel mischen. Das 
 
 super lecker mit einem meiner veganen Aufstriche!
 
--schmeckt auch nur aus Buchweizen
+\-schmeckt auch nur aus Buchweizen
 
--statt gem. glutenfreie Haferflocken auch Teffmehl oder andere glutenfreie Mehlsorten möglich
+\-statt gem. glutenfreie Haferflocken auch Teffmehl oder andere glutenfreie Mehlsorten möglich
 
 VORSICHT Suchtgefahr!
