@@ -1,5 +1,5 @@
 ---
-title: Super O3 Müsli Getreidefrei
+title: Super O3 Müsli getreidefrei
 date: 2017-11-13T19:10:08.053Z
 categories:
   - '"Morgenstund" "Naschkatz"'
