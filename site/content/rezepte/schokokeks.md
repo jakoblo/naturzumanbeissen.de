@@ -37,4 +37,4 @@ wer mag kann noch ca. 11/2Essl. Schokodrops unterrühren (bio vegan)
 
 Jetzt mit  Löffel kleine Häufchen aufs Blech (Backpapier) setzen und in den vorgeheitzen Ofen  schieben.
 
-Heißluft 180 Grad  15 min.
+Heißluft 170 Grad  15 min.
