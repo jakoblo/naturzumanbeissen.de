@@ -12,16 +12,16 @@ In kleinerer Menge auch als Nachtisch geeignet! 😋
 
 fein mahlen:
 
-**1 Eßl. Leinsamen **und **2 Eßl. Chia**
+**1 Eßl. Leinsamen** und **2 Eßl. Chia**
 
 Hanfmilch mixen:
 
-**1 Eßl. Hanfnüsschen + 3 Datteln + 250ml lauwarmes Wasser **(oder kaltes)  mit Gewürzen nach Wunsch
+**1 Eßl. Hanfnüsschen + 3 Datteln + 250ml lauwarmes Wasser** (oder kaltes)  mit Gewürzen nach Wunsch
 
-**1 Banane **(oder 2😉) in einem Suppenteller mit Gabel grob zerkleinern und **1 kl. Apfel** dazu raspeln
+**1 Banane** (oder 2😉) in einem Suppenteller mit Gabel grob zerkleinern und **1 kl. Apfel** dazu raspeln
 
 weiteres Obst nach Lust und Laune oder was der Vorrat hergibt
 
 die  gem. Samen mit der Hanfmilch mischen und übers Obst gießen 
 
-**3-5 Walnüsse **(frisch geknackt) drüber streuen
+**3-5 Walnüsse** (frisch geknackt) drüber streuen
