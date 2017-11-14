@@ -9,17 +9,17 @@ eine super süße Methode um unsere Mülldeponien zu reinigen ist dieser Smoothi
 
 **2 Bananen**
 
-**2 Tassen wilde Heidelbeeren **(gefrohren immer erhältlich)
+**2 Tassen wilde Heidelbeeren** (gefrohren immer erhältlich)
 
 **1 Tasse Korianderkraut**
 
-**1 Tasse Orangensaft **(frisch gepresst)
+**1 Tasse Orangensaft** (frisch gepresst)
 
-**1 Teel. GerstengrasSAFTpulver ( **ist am gehaltvollsten ) falls nur **Getstengraspulver **zur Verfügung steht einfach **1 gehäuften Eßlöffel **davon verwenden
+**1 Teel. GerstengrasSAFTpulver** (ist am gehaltvollsten ) falls nur **Getstengraspulver** zur Verfügung steht einfach **1 gehäuften Eßlöffel** davon verwenden
 
-**1 Teel. Spirulinapulver ** (hawaiianisch! stark geprüfte Qualität)
+**1 Teel. Spirulinapulver** (hawaiianisch! stark geprüfte Qualität)
 
-**1 kleine handvoll Atlantic Dulse **(Alge)
+**1 kleine handvoll Atlantic Dulse** (Alge)
 
 etwas Wasser zum Mixen in den Blender - bis zur gewünschten Konsistenz
 
