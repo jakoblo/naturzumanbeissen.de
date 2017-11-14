@@ -3,7 +3,7 @@ title: Saft zur Nierenreinigung
 date: 2017-11-14T19:07:46.099Z
 categories:
   - Rohkost
-thumbnail: /img/1499776325.jpg
+thumbnail: /img/20171114_214738.jpg
 ---
 Am Besten verwenden wir einen "Slow Juicer" also einen Entsafter der das Gemüse und Obst möglichst vorsichtig ausquetscht 😉 
 
