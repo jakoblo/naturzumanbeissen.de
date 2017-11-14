@@ -3,7 +3,7 @@ title: "Salat\U0001F340\U0001F955\U0001F343 Dressing O3"
 date: 2017-11-13T20:15:52.469Z
 categories:
   - '"Mahlzeit"'
-  - '"Rohköstlich"'
+  - '"Rohkost"'
 thumbnail: /img/IMG_20171111_133345457.jpg
 ---
 lecker über Gemüsesalate oder auch Blattsalat oder als Dipp für Gemüsesticks oder ...
