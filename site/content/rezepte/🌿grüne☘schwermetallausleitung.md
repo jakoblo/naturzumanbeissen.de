@@ -2,7 +2,7 @@
 title: "\U0001F33FGRÜNE☘SchwermetallAusleitung "
 date: 2017-11-13T19:38:22.510Z
 categories:
-  - Rohköstlich
+  - Rohkost
 thumbnail: /img/20170424_132458.jpg
 ---
 eine super süße Methode um unsere Mülldeponien zu reinigen ist dieser Smoothie von Anthony William aus seinem Buch "Medical Food" - Empfehlung!!! 
