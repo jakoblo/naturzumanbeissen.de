@@ -16,12 +16,10 @@ ca. 2 EL Zitronensaft
 
 das ganze mit der Gabel oder Pürierstab unter 
 
-**1 Avocado **mischen und abschmecken
+**1 Avocado** mischen und abschmecken
 
 **HUMMUS**
 
 **KICHERERBSEN IM GRÜNEN**
-
-
 
 **PESTO**
