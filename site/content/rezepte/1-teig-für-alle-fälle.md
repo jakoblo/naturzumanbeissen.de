@@ -5,9 +5,11 @@ categories:
   - mahlzeit
 thumbnail: /img/IMG_20171125_135220132.jpg
 ---
-**750g Kartoffeln **in Salzwasser gekocht und abgekühlt
+**750g Kartoffeln **
 
-dazu in eine Schüssel geben:
+in Salzwasser gekocht und abgekühlt
+
+ in eine Schüssel geben mit:
 
 **50g Kartoffelmehl**
 
@@ -15,11 +17,11 @@ dazu in eine Schüssel geben:
 
 **1/2 TL Salz**
 
-**Kräuter **nach Lust und Laune und Verwendung!
+**Kräuterm**nach Lust und Laune und Verwendung!
 
 und zu einem gschmeidigen Teig kneten - ruhen lassen!
 
-dann auf ein Blech verteilen und 20 Minuten bei 180 Grad vorbacken!
+auf ein Blech verteilen und 20 Minuten bei 180 Grad vorbacken!
 
 dann beliebig belegen:
 
